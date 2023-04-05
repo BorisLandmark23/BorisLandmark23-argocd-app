@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/BorisLandmark23/primuslearning-argocd-app.git
+    repoURL: https://github.com/BorisLandmark23/BorisLandmark23-argocd-app.git
     targetRevision: HEAD
     path: dev
   destination: 
